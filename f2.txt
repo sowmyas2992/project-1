@@ -5,3 +5,5 @@ aws azure microsoft
 simple storage service
 virtual private cloud
 elastic compute clode
+simple notification service
+elastic block storage
