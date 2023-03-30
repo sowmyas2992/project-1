@@ -1,2 +1,7 @@
 new file
 new line added
+devops course
+aws azure microsoft
+simple storage service
+virtual private cloud
+elastic compute clode
